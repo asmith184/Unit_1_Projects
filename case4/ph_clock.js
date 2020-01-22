@@ -1,16 +1,18 @@
+"use strict";
+
 /*
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 9
    Case Problem 4
 
    Countdown Clock for Ticket Ordering
-   Author: 
-   Date:  
+   Author: Aspen Smith
+   Date:  1-22-2020
 
    Filename:   ph_clock.js     
 
 */
-
+var minsLeft = 0;
 
 
 
