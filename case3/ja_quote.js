@@ -23,6 +23,9 @@ function randomInt(lowest, size){
 
 var quoteElem = document.getElementsByTagName("quote")[0];
 
+quoteElem.innerHTML = getQuote(randomQ);
+
+
 function getQuote(n) {
    var quotes = [
    "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
@@ -39,3 +42,4 @@ function getQuote(n) {
    
    return quotes[n];
 }
+
