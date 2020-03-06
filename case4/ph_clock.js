@@ -5,7 +5,7 @@
    Case Problem 4
    Countdown Clock for Ticket Ordering
    Author: Aspen Smith
-   Date: 
+   Date: 1-22-2020
    Filename:   ph_clock.js
 */
 // all global variable for shortcuts
